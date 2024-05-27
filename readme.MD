@@ -25,7 +25,7 @@ setup --server-data-path C:\Users\fivem\server-data
 This will download the **master** branch as a zip and extract them into selected resource destination. Make sure the repository is set to public and is following the [supported project structure](#Compatible-repositories)  
 Use `--skip-cfg` to skip making changes to your `server.cfg`
 ```
-load --url https://github.com/happsie/fivem-hello-world --script-name hello_world
+load --url https://github.com/Ghosti-dev/fivem-hello-world --script-name hello_world
 ```
 * **Load a new script (alternative source)**  
 This will download source and extract them into selected resource destination. The download must be a `.zip` file [supported project structure](#Compatible-repositories)  

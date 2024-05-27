@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/happsie/fivem-loader/internal/config"
+	"github.com/Ghosti-dev/fivem-loader-fgh/tree/main/internal/config"
 	"github.com/thoas/go-funk"
 )
 

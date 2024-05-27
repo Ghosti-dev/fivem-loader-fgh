@@ -1,4 +1,4 @@
-module github.com/happsie/fivem-loader
+module github.com/Ghosti-dev/fivem-loader-fgh
 
 go 1.19
 

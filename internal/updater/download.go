@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/happsie/fivem-loader/internal"
+	"github.com/Ghosti-dev/fivem-loader-fgh/tree/main/internal"
 )
 
 func DownloadZip(url string) (zipName string, err error) {

@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/happsie/fivem-loader/internal/config"
+	"github.com/Ghosti-dev/fivem-loader-fgh/tree/main/internal/config"
 	"github.com/urfave/cli/v2"
 )
 

@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/happsie/fivem-loader/cmd/ctl/cmd"
+	"github.com/Ghosti-dev/fivem-loader-fgh/tree/main/cmd/ctl/cmd"
 	"github.com/urfave/cli/v2"
 )
 
@@ -29,7 +29,7 @@ func main() {
 				Flags: []cli.Flag{
 					&cli.StringFlag{
 						Name:     "url",
-						Usage:    "URL to github repository or other source containing the script. (example: https://github.com/happsie/fivem-hello-world)",
+						Usage:    "URL to github repository or other source containing the script. (example: https://github.com/ghosti-dev/fivem-hello-world)",
 						Required: true,
 					},
 					&cli.StringFlag{
@@ -80,10 +80,10 @@ func main() {
 			},
 		},
 	}
-	app.Name = "FiveM-Loader"
+	app.Name = "FiveM-Loader-FGH"
 	app.Authors = []*cli.Author{
 		{
-			Name: "happsie",
+			Name: "Ghostiii",
 		},
 	}
 	app.Version = "v1.2"

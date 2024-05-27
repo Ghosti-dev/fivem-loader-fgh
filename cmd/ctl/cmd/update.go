@@ -3,9 +3,9 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/happsie/fivem-loader/internal"
-	"github.com/happsie/fivem-loader/internal/config"
-	"github.com/happsie/fivem-loader/internal/updater"
+	"github.com/Ghosti-dev/fivem-loader-fgh/tree/main/internal"
+	"github.com/Ghosti-dev/fivem-loader-fgh/tree/main/internal/config"
+	"github.com/Ghosti-dev/fivem-loader-fgh/tree/main/internal/updater"
 	"github.com/thoas/go-funk"
 	"github.com/urfave/cli/v2"
 )

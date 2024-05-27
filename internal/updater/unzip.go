@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/happsie/fivem-loader/internal"
+	"github.com/Ghosti-dev/fivem-loader-fgh/tree/main/internal"
 )
 
 type Unzipped struct {

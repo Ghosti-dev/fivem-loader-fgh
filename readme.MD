@@ -3,7 +3,7 @@
 </p>
 
 ## 🖥️ Download
-[Go to releases](https://github.com/happsie/fivem-loader/releases)
+[Go to releases](https://github.com/Ghosti-dev/fivem-loader-fgh/releases/)
 
 ## ✨ Features
 * Download FiveM scripts from Github
@@ -58,6 +58,6 @@ The supported structure for repositories using this tool will be updated to supp
 **only one FiveM-script per repository is currently supported to 100%**
 
 ## 🆘Need help?
-[Create an issue](https://github.com/happsie/fivem-loader/issues) 
+[Create an issue](https://github.com/ghosti-dev/fivem-loader-fgh/issues) 
 
 
